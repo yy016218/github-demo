@@ -51,3 +51,4 @@ Scenario integration-cloud effect is the output of Alibaba Cloud. When most of o
 
 总结
 总体来说让我们更少的关注于本地是很好的。同时对应的云应用中还可以采用阿里云的其他相关产品进行流水线一样的开发，对于一些公司而言不需要在进行技术方案的讨论以及踩坑，都由阿里云进行提供服务。
+
