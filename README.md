@@ -29,6 +29,18 @@
   
    这里面主要对于用户管理企业内部人员权限以及查看当前企业内各个模块的使用情况等等。可以从下图中看出里面包含了许多的功能，对于RAM资源控制已经足够使用。
    
+   efficiency
+  On the premise of completing the task,optimize
+
+  Complete the first work task,we need to sort out the process of its work, how to better improve the efficiency of work.
+  
+  
+   It is not difficult to get started-Yunxiao currently combines most of the business scenarios.It may be necessary to carry out a simple familiarization process at the beginning, but once we are proficient in using it, we can quickly iterate on the business.
+
+Scenario integration-cloud effect is the output of Alibaba Cloud. When most of our enterprises have Alibaba Cloud products, we can access them very well and complete the scenario integration through simple configuration (code push is directly deployed on ECS, etc.), allowing us to connect seamlessly.
+
+   Available everywhere - since it is a cloud product, we don't care about our current local configuration. We can completely ignore our current local environment. All our operations are stored on the cloud, which greatly improves our daily office efficiency.
+   
    企业成员：
    
   这个功能模块只要是用来管理企业内人员情况，通过部门以及分组进行人员的划分调整，使得对应的人事管理人员更易于查看公司内部人员情况。
